@@ -26,6 +26,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		1C3431A917DB7DD000F5316D /* config.ini */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = config.ini; sourceTree = "<group>"; };
 		1CE4614217DA40AB006AA23E /* CS02 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CS02; sourceTree = BUILT_PRODUCTS_DIR; };
 		1CE4614517DA40AB006AA23E /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		1CE4614717DA40AB006AA23E /* CS02.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = CS02.1; sourceTree = "<group>"; };
@@ -67,6 +68,7 @@
 				1CE4614717DA40AB006AA23E /* CS02.1 */,
 				1CE4614E17DA40D3006AA23E /* func.h */,
 				1CE4614F17DA40F7006AA23E /* func.c */,
+				1C3431A917DB7DD000F5316D /* config.ini */,
 			);
 			path = CS02;
 			sourceTree = "<group>";
@@ -220,6 +222,7 @@
 				1CE4614D17DA40AB006AA23E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
