@@ -8,10 +8,6 @@
 
 #include <stdio.h>
 #include "func.h"
-#ifndef __USE_XOPEN
-#define __USE_XOPEN
-#endif
-#include <time.h>
 
 int main(int argc, const char * argv[])
 {
